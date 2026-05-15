@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://portfolio-website-saprem.vercel.app/sitemap.xml
+Sitemap: https://sapremshah.com/sitemap.xml
